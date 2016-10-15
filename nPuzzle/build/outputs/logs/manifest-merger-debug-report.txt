@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:2:1-65:12
+	package
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml
+		INJECTED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml
+		INJECTED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml
+		INJECTED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [NPuzzle:facebookSDK:unspecified] F:\Java Project\NPuzzle\nPuzzle\build\intermediates\exploded-aar\NPuzzle\facebookSDK\unspecified\AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml
+		INJECTED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml
+		INJECTED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:12:22-76
+application
+ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:14:5-63:19
+MERGED from [NPuzzle:facebookSDK:unspecified] F:\Java Project\NPuzzle\nPuzzle\build\intermediates\exploded-aar\NPuzzle\facebookSDK\unspecified\AndroidManifest.xml:24:5-20
+	android:label
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:16:9-45
+	android:theme
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:18:9-40
+activity#com.facebook.LoginActivity
+ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:19:9-63
+	android:name
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:19:19-60
+activity#com.khtn.npuzzle.MainActivity
+ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:20:9-29:20
+	android:screenOrientation
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:23:13-50
+	android:label
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:21:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:27:27-74
+activity#com.khtn.npuzzle.GameScreen
+ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:30:9-33:20
+	android:screenOrientation
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:32:13-50
+	android:name
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:31:13-39
+activity#com.facebook.FacebookActivity
+ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:35:9-40:20
+	android:label
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:38:13-45
+	android:configChanges
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:37:13-96
+	android:theme
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:39:13-72
+	android:name
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:36:13-57
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:42:9-44:55
+	android:value
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:44:13-52
+	android:name
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:43:13-58
+activity#com.khtn.npuzzle.InfoActivity
+ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:46:9-50:20
+	android:screenOrientation
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:48:13-50
+	android:label
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:49:13-56
+	android:name
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:47:13-41
+activity#com.khtn.npuzzle.SettingActivity
+ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:51:9-57:20
+	android:screenOrientation
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:53:13-50
+	android:label
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:54:13-59
+	android:configChanges
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:55:13-55
+	android:name
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:52:13-44
+activity#com.khtn.npuzzle.StatisticActivity
+ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:58:9-62:20
+	android:screenOrientation
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:60:13-50
+	android:label
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:61:13-61
+	android:name
+		ADDED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:59:13-46
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:2:1-65:12 reason: android.view.ext has a targetSdkVersion < 4
+android:uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:2:1-65:12 reason: android.view.ext has a targetSdkVersion < 4
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from F:\Java Project\NPuzzle\nPuzzle\src\main\AndroidManifest.xml:2:1-65:12 reason: android.view.ext requested WRITE_EXTERNAL_STORAGE

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\satellitemenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\sat_item_click_interpolator.xml",
+        "source": "F:\\Java Project\\NPuzzle\\satellitemenu\\build\\intermediates\\bundles\\debug\\res\\anim\\sat_item_click_interpolator.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\satellitemenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\sat_item_anim_click.xml",
+        "source": "F:\\Java Project\\NPuzzle\\satellitemenu\\build\\intermediates\\bundles\\debug\\res\\anim\\sat_item_anim_click.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\satellitemenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\sat_item_overshoot_interpolator.xml",
+        "source": "F:\\Java Project\\NPuzzle\\satellitemenu\\build\\intermediates\\bundles\\debug\\res\\anim\\sat_item_overshoot_interpolator.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\satellitemenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\sat_item_in_rotate_interpolator.xml",
+        "source": "F:\\Java Project\\NPuzzle\\satellitemenu\\build\\intermediates\\bundles\\debug\\res\\anim\\sat_item_in_rotate_interpolator.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\satellitemenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\sat_main_rotate_left.xml",
+        "source": "F:\\Java Project\\NPuzzle\\satellitemenu\\build\\intermediates\\bundles\\debug\\res\\anim\\sat_main_rotate_left.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\satellitemenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\sat_item_out_rotate_interpolator.xml",
+        "source": "F:\\Java Project\\NPuzzle\\satellitemenu\\build\\intermediates\\bundles\\debug\\res\\anim\\sat_item_out_rotate_interpolator.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\satellitemenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\sat_item_anticipate_interpolator.xml",
+        "source": "F:\\Java Project\\NPuzzle\\satellitemenu\\build\\intermediates\\bundles\\debug\\res\\anim\\sat_item_anticipate_interpolator.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\satellitemenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\sat_main_rotate_right.xml",
+        "source": "F:\\Java Project\\NPuzzle\\satellitemenu\\build\\intermediates\\bundles\\debug\\res\\anim\\sat_main_rotate_right.xml"
+    }
+]

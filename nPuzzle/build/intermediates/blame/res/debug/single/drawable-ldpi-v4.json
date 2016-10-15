@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\background.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\login.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\login.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\play.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\play.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\backtomain.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\backtomain.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\logo.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\setting.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\setting.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\fondo_tablero_t.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\fondo_tablero_t.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\combochart.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\combochart.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\fondo_tablero_.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\fondo_tablero_.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\jpflag.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\jpflag.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\game_play_bg_3.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\game_play_bg_3.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\vnflag.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\vnflag.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\com_facebook_close.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable-ldpi-v4\\com_facebook_close.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\hint.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\hint.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\fondo_tablero_cl.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\fondo_tablero_cl.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\firstrank.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\firstrank.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dice.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\dice.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\imgrandom.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\imgrandom.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\topweek.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\topweek.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\statistics.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\statistics.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\game_play_bg1.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\game_play_bg1.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ukflag.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\ukflag.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\info.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\info.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\autosolved.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\autosolved.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\fondo_tablero.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\fondo_tablero.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\game_play_bg.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\game_play_bg.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\player.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\player.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\fondo_tablero_r.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\fondo_tablero_r.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\thirdrank.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\thirdrank.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\secondrank.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable-ldpi\\secondrank.png"
+    }
+]

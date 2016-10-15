@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_grey_normal.9.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_grey_normal.9.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_profile_default_icon.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_profile_default_icon.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\dice.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable\\dice.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_item_background.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_picker_item_background.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\thirdrank.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable\\thirdrank.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_list_focused.9.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_picker_list_focused.9.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_blue_focused.9.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_blue_focused.9.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_list_divider.9.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_list_divider.9.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\player.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable\\player.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\hint.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable\\hint.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_blue.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_blue.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_usersettingsfragment_background_gradient.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_usersettingsfragment_background_gradient.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_list_section_header_background.9.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_list_section_header_background.9.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\play.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_blue_normal.9.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_blue_normal.9.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_grey_pressed.9.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_grey_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\secondrank.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable\\secondrank.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\combochart.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable\\combochart.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\info.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable\\info.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\setting.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_top_background.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_top_background.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\statistics.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable\\statistics.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_list_selector_background_transition.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_picker_list_selector_background_transition.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_top_button.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_picker_top_button.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_inverse_icon.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_inverse_icon.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\login.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_check_off.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_check_off.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_list_longpressed.9.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_picker_list_longpressed.9.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\firstrank.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable\\firstrank.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_profile_picture_blank_square.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_profile_picture_blank_square.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_close.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_close.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_check.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_check.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_blue_pressed.9.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_blue_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_check_on.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_check_on.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\backtomain.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable\\backtomain.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_list_pressed.9.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_picker_list_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_profile_picture_blank_portrait.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_profile_picture_blank_portrait.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_loginbutton_silver.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_loginbutton_silver.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_place_default_icon.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_place_default_icon.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_top_button.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_top_button.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_grey_focused.9.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_button_grey_focused.9.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_list_selector_disabled.9.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_picker_list_selector_disabled.9.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_list_selector.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_picker_list_selector.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\autosolved.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable\\autosolved.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\imgrandom.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable\\imgrandom.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_logo.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\drawable\\com_facebook_logo.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\drawable\\logo.png"
+    }
+]

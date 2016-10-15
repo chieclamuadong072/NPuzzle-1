@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DifficulLevel">Mức chơi : </string>
+    <string name="Pause">Tạm dừng</string>
+    <string name="Score">Điểm</string>
+    <string name="ScoreDemo">860</string>
+    <string name="SelectLanguage">Ngôn ngữ : </string>
+    <string name="SoundSwitch">Âm thanh : </string>
+    <string name="Time">Thời gian</string>
+    <string name="TimeDemo">28:08</string>
+    <string name="action_settings">Tùy Chọn</string>
+    <string name="app_name">NPuzzle</string>
+    <string name="at_goal_state">Trạng thái đích.</string>
+    <string name="btn_back">Trở về màn hình chính</string>
+    <string name="btn_play">Chơi!</string>
+    <string name="btn_restart">Màn chơi ngẫu nhiên</string>
+    <string name="btn_solve">Tự động giải</string>
+    <string name="currentLevel">Mức : 45</string>
+    <string name="facebook_app_id">191226494556861</string>
+    <string name="facebook_login">Xin chào, </string>
+    <string name="facebook_logout">Bạn đã đăng nhập</string>
+    <string name="found_solution">Thấy lời giải!!!</string>
+    <string name="hello_world">Chào mừng</string>
+    <string name="image_screen">Hinh</string>
+    <string name="info">====SLIDE MY TILES====\n
+        <font color="red">"Sản phẩm này được thiết kế và phát triển bởi ACDP team in Viet Nam</font>\n
+         LEADER &amp; DEVELOPER\n
+         Huy Cường\n
+         TECHNICAL ARCHITECT &amp; DEVELOPER\n
+         Hoàng Phúc\n
+         DATABASE ANALYZER &amp; DESIGNER\n
+         Đăng Ái\n
+         WEBSERVICE SUPPORTER &amp; DEVELOPER\n
+         Tấn Đạt\n
+         </string>
+    <string name="no_solution">Không có lời giải.</string>
+    <string name="reach_goal_state">Bạn tự động giải!!!</string>
+    <string name="solve_move">Số bước giải: </string>
+    <string name="solve_time">Thời gian giải: </string>
+    <string name="solve_time_unit"> mili giây</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_statistic">StatisticActivity</string>
+    <string name="version">Phiên bản 1.0</string>
+</resources>

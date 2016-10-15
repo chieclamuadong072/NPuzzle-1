@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a"
+    api-level="19"
+    density="hdpi"
+    format="7"
+    timestamp="167569391625507"
+    token="-5069275935031483780" >
+
+    <task
+        name="javac"
+        duration="2458" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="4855" />
+    <task
+        name="verifier"
+        duration="1799" />
+
+    <artifact
+        location="F:\Java Project\NPuzzle\nPuzzle\build\outputs\apk\nPuzzle-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="167569391625507" >
+        <artifact
+            location="F:\Java Project\NPuzzle\nPuzzle\build\outputs\apk\nPuzzle-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DifficulLevel">難しいレベル : </string>
+    <string name="Pause">ポーズ</string>
+    <string name="Score">スコア</string>
+    <string name="ScoreDemo">860</string>
+    <string name="SelectLanguage">言語を選択する : </string>
+    <string name="SoundSwitch">聞こえる : </string>
+    <string name="Time">タイム</string>
+    <string name="TimeDemo">28:08</string>
+    <string name="action_settings">セッティング</string>
+    <string name="app_name">NPuzzle</string>
+    <string name="at_goal_state">ゴール状態.</string>
+    <string name="btn_back">メインページに戻ります</string>
+    <string name="btn_play">プレー!</string>
+    <string name="btn_restart">ランダムマップ</string>
+    <string name="btn_solve">AUTO SOLVE</string>
+    <string name="currentLevel">レベル : 45</string>
+    <string name="facebook_app_id">191226494556861</string>
+    <string name="facebook_login">こんにちは, </string>
+    <string name="facebook_logout">あなたはログインしていません.</string>
+    <string name="found_solution">見つかったソリューション!!!</string>
+    <string name="hello_world">Welcome to project NPuzzle</string>
+    <string name="image_screen">Hinh</string>
+    <string name="info">
+ <font color="red">"この製品を設計し、ベトナムでACDPチームによって開発されました</font>\n
+         リーダー &amp; 開発者\n
+         Huy Cường\n
+         テクニカルアーキテクト &amp; 開発者\n
+         Hoàng Phúc\n
+         データベースアナライザ &amp; デザイナー\n
+         Đăng Ái\n
+         Webサービスのサポーター &amp; 開発者\n
+         Tấn Đạt\n
+</string>
+    <string name="no_solution">解決策が見つかりませんでした.</string>
+    <string name="reach_goal_state">あなたは、ゲームを解決しました!!!</string>
+    <string name="solve_move">動きの数: </string>
+    <string name="solve_time">タイム: </string>
+    <string name="solve_time_unit"> ミリ秒</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_statistic">StatisticActivity</string>
+    <string name="version">バージョン 1.0</string>
+</resources>

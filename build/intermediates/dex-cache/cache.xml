@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Java Project\NPuzzle\nPuzzle\build\intermediates\exploded-aar\NPuzzle\facebookSDK\unspecified\jars\libs\bolts-android-1.1.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5da1cf9d48a0a0f682cb90f7bfc1724432e63991">
+        <dex dex="F:\Java Project\NPuzzle\nPuzzle\build\intermediates\pre-dexed\debug\bolts-android-1.1.2_f78eb2c95249449e8a5d15c6fc198466fcac1357.jar" />
+    </item>
+    <item
+        jar="F:\Java Project\NPuzzle\nPuzzle\libs\ksoap2-android-assembly-3.4.0-jar-with-dependencies.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="45fbaab416fb5cff992e662d1f7a83786f084fc3">
+        <dex dex="F:\Java Project\NPuzzle\nPuzzle\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.4.0-jar-with-dependencies_619d6b17f52066dfc3871cf99b79713e2218436a.jar" />
+    </item>
+    <item
+        jar="F:\Java Project\NPuzzle\nPuzzle\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d6ddaa1d6b63e40461b8158c3e288783d80a5ccc">
+        <dex dex="F:\Java Project\NPuzzle\nPuzzle\build\intermediates\pre-dexed\debug\instant-run_3caa438226a561cd778a0a13ec45ddca0d7ace50.jar" />
+    </item>
+    <item
+        jar="C:\Users\11620_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\Java Project\NPuzzle\nPuzzle\build\intermediates\pre-dexed\debug\support-v4-19.1.0_e12009bf8a35c0db9931696f7af855eb7904ff92.jar" />
+    </item>
+    <item
+        jar="F:\Java Project\NPuzzle\nPuzzle\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="10e91873ca9b8a23a3d25e3773c9e8edffff622d">
+        <dex dex="F:\Java Project\NPuzzle\nPuzzle\build\intermediates\pre-dexed\debug\instant-run-bootstrap_a4753848202c42eb91360d713fc41ee4e84cedd7.jar" />
+    </item>
+    <item
+        jar="C:\Users\11620_000\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="F:\Java Project\NPuzzle\nPuzzle\build\intermediates\pre-dexed\debug\gson-2.5_7869096841a11975fa380fd6e26d0511bfc26575.jar" />
+    </item>
+
+</items>

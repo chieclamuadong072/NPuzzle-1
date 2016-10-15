@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\satellitemenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\sat_item.png",
+        "source": "F:\\Java Project\\NPuzzle\\satellitemenu\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\sat_item.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\satellitemenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\home.png",
+        "source": "F:\\Java Project\\NPuzzle\\satellitemenu\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\home.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\satellitemenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\sat_main.png",
+        "source": "F:\\Java Project\\NPuzzle\\satellitemenu\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\sat_main.png"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\satellitemenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\Java Project\\NPuzzle\\satellitemenu\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    }
+]

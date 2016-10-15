@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\layout\\topscore_row.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\layout\\topscore_row.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_search_box.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\layout\\com_facebook_picker_search_box.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_list_row.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\layout\\com_facebook_picker_list_row.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_image.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\layout\\com_facebook_picker_image.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_friendpickerfragment.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\layout\\com_facebook_friendpickerfragment.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_search_bar_layout.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\layout\\com_facebook_search_bar_layout.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\layout\\activity_statistic.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\layout\\activity_statistic.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\layout\\board_tile.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\layout\\board_tile.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_title_bar_stub.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\layout\\com_facebook_picker_title_bar_stub.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_placepickerfragment.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\layout\\com_facebook_placepickerfragment.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_usersettingsfragment.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\layout\\com_facebook_usersettingsfragment.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_list_section_header.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\layout\\com_facebook_picker_list_section_header.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\layout\\activity_info.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\layout\\activity_info.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game_screen.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\layout\\activity_game_screen.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_placepickerfragment_list_row.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\layout\\com_facebook_placepickerfragment_list_row.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_activity_layout.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\layout\\com_facebook_login_activity_layout.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_title_bar.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\layout\\com_facebook_picker_title_bar.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_checkbox.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\layout\\com_facebook_picker_checkbox.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\layout\\sat_item_cr.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\satellitemenu\\unspecified\\res\\layout\\sat_item_cr.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\layout\\sat_main.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\satellitemenu\\unspecified\\res\\layout\\sat_main.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_activity_circle_row.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\exploded-aar\\NPuzzle\\facebookSDK\\unspecified\\res\\layout\\com_facebook_picker_activity_circle_row.xml"
+    },
+    {
+        "merged": "F:\\Java Project\\NPuzzle\\nPuzzle\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Java Project\\NPuzzle\\nPuzzle\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

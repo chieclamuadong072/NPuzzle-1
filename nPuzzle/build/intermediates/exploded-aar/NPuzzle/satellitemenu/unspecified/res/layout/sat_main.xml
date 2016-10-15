@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">    
+    <ImageView
+        android:id="@+id/sat_main"
+        android:layout_width="200px"
+        android:layout_height="200px"
+        android:src="@drawable/home" 
+        android:layout_gravity="center" 
+        android:contentDescription="@string/empty"/>        
+</merge>
