@@ -93,7 +93,7 @@ public class MainActivity extends Activity {
 
 		username = "";
 		userid = "";
-		
+		int i = 0;
 		menu.addItems(listItems);
 
 		menu.setOnItemClickedListener(new SateliteClickedListener() {
